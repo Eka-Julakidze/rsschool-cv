@@ -4,7 +4,7 @@
 
 *Contact Info:*
 * eka.julakidze15@gmail.com
-* [LinkedIn profile](linkedin.com/in/eka-julakidze-44a612202)
+* [LinkedIn profile](https://linkedin.com/in/eka-julakidze-44a612202)
 
 
 I am a Computer Science student, passionate about Software Development. I aim to master my programming skills to develop cool applications; applications that will make a difference in people's lives. 
